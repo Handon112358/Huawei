@@ -1,6 +1,6 @@
 # Huawei
 
-ViPlanner环境配置：
+ViPlanner环境配置：source Miniconda/bin/activate
 
 首先将文件下载到本地，用到git操作：
 
